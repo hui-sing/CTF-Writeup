@@ -1,8 +1,3 @@
----
-title: CTF 練習
-
----
-
 CTF Writeup
 ===
 PWN
