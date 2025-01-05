@@ -16,6 +16,13 @@ MISC
 - [AIS32024 Pre_exam emoji](https://alert-city-013.notion.site/misc-emoji-2a7a7983fae0474c9b770ac144daaa6c?pvs=4)
 - [RGB QRcode](https://alert-city-013.notion.site/RGB-QRcode-4bdb83c6c1564c61955c495143b9bd8e?pvs=4)
 
+Web
+---
+- [HTB Flag Command](https://hackmd.io/KKVDAYa9Te-So7jRDwEG-g?both#Flag-Command)
+- [HTB Void Whispers](https://hackmd.io/KKVDAYa9Te-So7jRDwEG-g?both#Void-Whispers)
+- [HTB POP Restaurant](https://hackmd.io/KKVDAYa9Te-So7jRDwEG-g?both#POP-Restaurant)
+- [HTB Insomnia](https://hackmd.io/KKVDAYa9Te-So7jRDwEG-g?both#Insomnia)
+
 CRYPTO
 ---
 
@@ -25,5 +32,11 @@ CRYPTO
 
 FORENSIC
 ---
-- [cyberdefenders Web Investigation](https://alert-city-013.notion.site/Web-Investigation-ac00593ad4c244818e062681db865af8?pvs=4)
-- [cyberdefenders webstrike](https://alert-city-013.notion.site/webstrike-099f970061ee4246ab3a30d5a92de389?pvs=4)
+- [Cyberdefenders Web Investigation](https://alert-city-013.notion.site/Web-Investigation-ac00593ad4c244818e062681db865af8?pvs=4)
+- [Cyberdefenders webstrike](https://alert-city-013.notion.site/webstrike-099f970061ee4246ab3a30d5a92de389?pvs=4)
+- [MemLabs Lab 4-Obsession](https://hackmd.io/@singhui/BJmOfDUSkl)
+- [Cyberdefenders Reveal](https://hackmd.io/@singhui/BJ3wLBhnC)
+
+HTB machine
+---
+- [Forest](https://hackmd.io/@singhui/SyC_DpUV1l)
