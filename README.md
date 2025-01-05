@@ -40,3 +40,7 @@ FORENSIC
 HTB machine
 ---
 - [Forest](https://hackmd.io/@singhui/SyC_DpUV1l)
+
+Other practise
+---
+- [Webgoat](https://alert-city-013.notion.site/Webgoat-11b9f6124cee47e5ba52a95b1c1fa652?pvs=4)
