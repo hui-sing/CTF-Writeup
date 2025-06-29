@@ -1,7 +1,7 @@
 CTF Writeup
 ===
-[AIS32025 pre-exam](https://hackmd.io/@singhui/BydN_t1Glx)
-[AIS32024 pre-exam](https://alert-city-013.notion.site/AIS3_2024-8c4a002811af4a7292dca5e5909c2a4c?source=copy_link)
+- [AIS32025 pre-exam](https://hackmd.io/@singhui/BydN_t1Glx)
+- [AIS32024 pre-exam](https://alert-city-013.notion.site/AIS3_2024-8c4a002811af4a7292dca5e5909c2a4c?source=copy_link)
 
 PWN
 ---
